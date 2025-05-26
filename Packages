@@ -1,0 +1,20 @@
+Package: me.autotouch.autotouch.ios8.inputtext
+Version: 8.2.14
+Architecture: iphoneos-arm64
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 83248
+Depends: firmware (>= 12.2) | org.swift.libswift (>= 5.0), ellekit
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: ./debs/at8124rootless_ok.deb
+Size: 23849172
+MD5sum: e8b48476ae178b32b88334fecb43cf37
+SHA1: 808e6e6f58c095aa418dccfafbc2764c89b3bcfe
+SHA256: bc852ada00157adc4a724b38b024a7df088ceb46baf594e2579aeb256b2a6fd0
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch InputText
+
