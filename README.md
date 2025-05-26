@@ -1,1 +1,0 @@
-# nhìn con cặc
