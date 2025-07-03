@@ -12,7 +12,8 @@ This is a custom Sileo repo hosting a few useful `.deb` packages.
 ### 2. AutoTouch InputText 8.2.9
 - 📥 [Download me.autotouch.autotouch.ios8.inputtext_8.2.9_iphoneos-arm64.deb](https://disku0001.github.io/cp16/debs/me.autotouch.autotouch.ios8.inputtext_8.2.9_iphoneos-arm64.deb)
 
----
+### 3. shadow
+- 📥 [Download shadowtech](https://disku0001.github.io/cp16/debs/com.shadowtech.ios_1.0.3~beta8_iphoneos-arm64.deb)
 
 ## 📲 Add to Sileo
 
