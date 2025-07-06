@@ -15,6 +15,9 @@ This is a custom Sileo repo hosting a few useful `.deb` packages.
 ### 3. shadow
 - 📥 [Download shadowtech](https://disku0001.github.io/cp16/debs/com.shadowtech.ios_1.0.3~beta8_iphoneos-arm64.deb)
 
+- ### 4. magisk
+- 📥 [Download magisk](https://disku0001.github.io/cp16/debs/MAGISK_ALPHA_28104.apk)
+
 ## 📲 Add to Sileo
 
 To add this repo to **Sileo**, use the following URL:
