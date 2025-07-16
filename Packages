@@ -24,7 +24,7 @@ Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Installed-Size: 83248
 Depends: firmware (>= 12.2) | org.swift.libswift (>= 5.0), ellekit
 Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
-Filename: debs/at8124rootless_ok.deb
+Filename: debs/cr8214.deb
 Size: 23849172
 MD5sum: e8b48476ae178b32b88334fecb43cf37
 SHA1: 808e6e6f58c095aa418dccfafbc2764c89b3bcfe
