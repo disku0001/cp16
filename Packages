@@ -18,17 +18,17 @@ Name: shadowios
 Sileodepiction: https://repo-test.zios.tools/depictions/native/com.shadowtech.ios/depiction.json
 
 Package: me.autotouch.autotouch.ios8.inputtext
-Version: 8.2.9
+Version: 8.2.14
 Architecture: iphoneos-arm64
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
-Installed-Size: 83908
+Installed-Size: 83248
 Depends: firmware (>= 12.2) | org.swift.libswift (>= 5.0), ellekit
 Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
-Filename: debs/me.autotouch.autotouch.ios8.inputtext_8.2.9_iphoneos-arm64.deb
-Size: 24135196
-MD5sum: a6bdd546c1d9e3c5dd1bfc1507413bce
-SHA1: a8b45f6411aadc7a01ff11edd83712b48a738b5f
-SHA256: c22709ef989157d5c9064a8588bfee1a5cfc27ff7b2d1194d9742d99d48bb7c4
+Filename: debs/at8124rootless_ok.deb
+Size: 23849172
+MD5sum: e8b48476ae178b32b88334fecb43cf37
+SHA1: 808e6e6f58c095aa418dccfafbc2764c89b3bcfe
+SHA256: bc852ada00157adc4a724b38b024a7df088ceb46baf594e2579aeb256b2a6fd0
 Section: Utilities
 Priority: optional
 Homepage: https://autotouch.net
