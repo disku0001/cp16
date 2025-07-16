@@ -22,7 +22,7 @@ This is a custom Sileo repo hosting a few useful `.deb` packages.
 
 To add this repo to **Sileo**, use the following URL:
 
-https://raw.githubusercontent.com/disku0001/cp16/main/
+[https://raw.githubusercontent.com/disku0001/cp16/main/](https://raw.githubusercontent.com/disku0001/cp16/main/)
 
 1. Open **Sileo**
 2. Go to **Sources** → tap **Edit** → **Add**
