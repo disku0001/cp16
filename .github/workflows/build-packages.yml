@@ -1,0 +1,23 @@
+name: Build Packages
+on:
+  push:
+    paths:
+      - 'debs/**' # Kích hoạt khi có thay đổi trong thư mục debs/
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install dpkg-dev
+        run: sudo apt-get update && sudo apt-get install -y dpkg-dev
+      - name: Generate Packages and Packages.gz
+        run: |
+          dpkg-scanpackages debs /dev/null > Packages
+          gzip -9c Packages > Packages.gz
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add Packages Packages.gz
+          git commit -m "Update Packages and Packages.gz" || echo "No changes to commit"
+          git push
